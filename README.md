@@ -8,7 +8,7 @@
 
 <p>Design credit: <a href='https://github.com/Abderraouf-Rahmani'>Abderraouf</a></p>
 
-<p><strong>Live Demo:</strong> <a href='https://minimalist-e-commerce.vercel.app/'>Explore Here</a></p>
+<p><strong>Live Demo:</strong> <a href='https://calm-jelly-584861.netlify.app/'>Explore Here</a></p>
 
 <h3>Technologies Used:</h3>
 <ul>
